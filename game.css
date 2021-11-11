@@ -1,0 +1,16 @@
+body{
+    background-image: url(dark-night-river-forest-minimal-art.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#output{
+    background-color: aliceblue;
+    border-radius: 10px;
+    border-top: 10px solid #d9b3ff;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
